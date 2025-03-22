@@ -13,6 +13,24 @@ import threading
 import pickle
 from datetime import datetime
 
+def display_banner():
+    """Display the VRJ banner when the program starts"""
+    banner = """
+██╗   ██╗██████╗      ██╗
+██║   ██║██╔══██╗     ██║
+██║   ██║██████╔╝     ██║
+╚██╗ ██╔╝██╔══██╗██   ██║
+ ╚████╔╝ ██║  ██║╚█████╔╝
+  ╚═══╝  ╚═╝  ╚═╝ ╚════╝ 
+                         
+CryptoGuardML - Advanced Cryptojacking Detection Tool
+    """
+    print(banner)
+    print("=" * 60)
+    print("  Machine Learning-based Cryptojacking Detection System")
+    print("=" * 60)
+    print()
+
 class CryptojackingDetector:
     def __init__(self, model_path=None, training_mode=False, sensitivity=0.95):
         self.sensitivity = sensitivity
@@ -34,7 +52,7 @@ class CryptojackingDetector:
                 logging.StreamHandler()
             ]
         )
-        self.logger = logging.getLogger("CryptojackingDetector")
+        self.logger = logging.getLogger("CryptoGuardML")
         
         if model_path and os.path.exists(model_path) and not training_mode:
             self.load_model()
@@ -311,7 +329,10 @@ class CryptojackingDetector:
             self.logger.error(f"Error in detector: {e}")
 
 def main():
-    parser = argparse.ArgumentParser(description="Machine Learning-based Cryptojacking Detector")
+    # Display the VRJ banner
+    display_banner()
+    
+    parser = argparse.ArgumentParser(description="CryptoGuardML - Machine Learning-based Cryptojacking Detector")
     parser.add_argument("--train", action="store_true", help="Start in training mode")
     parser.add_argument("--model", default="cryptojacking_model.pkl", help="Path to model file")
     parser.add_argument("--interval", type=int, default=5, help="Monitoring interval in seconds")
