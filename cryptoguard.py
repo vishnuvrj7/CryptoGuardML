@@ -14,7 +14,7 @@ import pickle
 from datetime import datetime
 
 def display_banner():
-    """Display the VRJ banner when the program starts"""
+    
     banner = """
 ██╗   ██╗██████╗      ██╗
 ██║   ██║██╔══██╗     ██║
