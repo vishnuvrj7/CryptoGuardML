@@ -1,0 +1,501 @@
+2025-06-18 11:55:30,964 - WARNING - No model found, starting in automatic training mode first
+2025-06-18 11:55:30,965 - INFO - Starting cryptojacking detector
+2025-06-18 11:56:47,585 - INFO - Training mode: 1/720.0 samples collected. Time elapsed: 77s/3600s
+2025-06-18 11:57:53,865 - INFO - Training mode: 2/720.0 samples collected. Time elapsed: 143s/3600s
+2025-06-18 11:58:47,688 - INFO - Training mode: 3/720.0 samples collected. Time elapsed: 197s/3600s
+2025-06-18 11:59:20,973 - INFO - Training mode: 4/720.0 samples collected. Time elapsed: 230s/3600s
+2025-06-18 12:02:11,770 - INFO - Training mode: 5/720.0 samples collected. Time elapsed: 401s/3600s
+2025-06-18 12:03:44,188 - INFO - Training mode: 6/720.0 samples collected. Time elapsed: 493s/3600s
+2025-06-18 12:04:51,033 - INFO - Training mode: 7/720.0 samples collected. Time elapsed: 560s/3600s
+2025-06-18 12:05:59,571 - INFO - Training mode: 8/720.0 samples collected. Time elapsed: 629s/3600s
+2025-06-18 12:06:41,382 - INFO - Training mode: 9/720.0 samples collected. Time elapsed: 670s/3600s
+2025-06-18 12:07:29,326 - INFO - Training mode: 10/720.0 samples collected. Time elapsed: 718s/3600s
+2025-06-18 12:08:26,894 - INFO - Training mode: 11/720.0 samples collected. Time elapsed: 776s/3600s
+2025-06-18 12:09:47,849 - INFO - Training mode: 12/720.0 samples collected. Time elapsed: 857s/3600s
+2025-06-18 12:11:19,733 - INFO - Training mode: 13/720.0 samples collected. Time elapsed: 949s/3600s
+2025-06-18 12:12:02,317 - INFO - Training mode: 14/720.0 samples collected. Time elapsed: 991s/3600s
+2025-06-18 12:13:23,993 - INFO - Training mode: 15/720.0 samples collected. Time elapsed: 1073s/3600s
+2025-06-18 12:14:15,922 - INFO - Training mode: 16/720.0 samples collected. Time elapsed: 1125s/3600s
+2025-06-18 12:15:12,732 - INFO - Training mode: 17/720.0 samples collected. Time elapsed: 1182s/3600s
+2025-06-18 12:16:09,682 - INFO - Training mode: 18/720.0 samples collected. Time elapsed: 1239s/3600s
+2025-06-18 12:16:46,850 - INFO - Training mode: 19/720.0 samples collected. Time elapsed: 1276s/3600s
+2025-06-18 12:17:28,659 - INFO - Training mode: 20/720.0 samples collected. Time elapsed: 1318s/3600s
+2025-06-18 12:18:15,119 - INFO - Training mode: 21/720.0 samples collected. Time elapsed: 1364s/3600s
+2025-06-18 12:19:01,987 - INFO - Training mode: 22/720.0 samples collected. Time elapsed: 1411s/3600s
+2025-06-18 12:19:49,868 - INFO - Training mode: 23/720.0 samples collected. Time elapsed: 1459s/3600s
+2025-06-18 12:21:02,763 - INFO - Training mode: 24/720.0 samples collected. Time elapsed: 1532s/3600s
+2025-06-18 12:21:40,336 - INFO - Training mode: 25/720.0 samples collected. Time elapsed: 1569s/3600s
+2025-06-18 12:23:04,331 - INFO - Training mode: 26/720.0 samples collected. Time elapsed: 1653s/3600s
+2025-06-18 12:27:01,371 - INFO - Training mode: 27/720.0 samples collected. Time elapsed: 1890s/3600s
+2025-06-18 12:28:42,629 - INFO - Training mode: 28/720.0 samples collected. Time elapsed: 1992s/3600s
+2025-06-18 12:30:14,141 - INFO - Training mode: 29/720.0 samples collected. Time elapsed: 2083s/3600s
+2025-06-18 12:31:28,661 - INFO - Training mode: 30/720.0 samples collected. Time elapsed: 2158s/3600s
+2025-06-18 12:32:24,598 - INFO - Training mode: 31/720.0 samples collected. Time elapsed: 2214s/3600s
+2025-06-18 12:33:24,517 - INFO - Training mode: 32/720.0 samples collected. Time elapsed: 2274s/3600s
+2025-06-18 12:34:02,009 - INFO - Training mode: 33/720.0 samples collected. Time elapsed: 2311s/3600s
+2025-06-18 12:34:43,762 - INFO - Training mode: 34/720.0 samples collected. Time elapsed: 2353s/3600s
+2025-06-18 12:35:30,284 - INFO - Training mode: 35/720.0 samples collected. Time elapsed: 2399s/3600s
+2025-06-18 12:35:58,269 - INFO - Training mode: 36/720.0 samples collected. Time elapsed: 2427s/3600s
+2025-06-18 12:36:34,048 - INFO - Training mode: 37/720.0 samples collected. Time elapsed: 2463s/3600s
+2025-06-18 12:37:02,472 - INFO - Training mode: 38/720.0 samples collected. Time elapsed: 2492s/3600s
+2025-06-18 12:37:35,805 - INFO - Training mode: 39/720.0 samples collected. Time elapsed: 2525s/3600s
+2025-06-18 12:38:08,926 - INFO - Training mode: 40/720.0 samples collected. Time elapsed: 2558s/3600s
+2025-06-18 12:38:42,623 - INFO - Training mode: 41/720.0 samples collected. Time elapsed: 2592s/3600s
+2025-06-18 12:39:15,413 - INFO - Training mode: 42/720.0 samples collected. Time elapsed: 2624s/3600s
+2025-06-18 12:39:58,329 - INFO - Training mode: 43/720.0 samples collected. Time elapsed: 2667s/3600s
+2025-06-18 12:40:31,054 - INFO - Training mode: 44/720.0 samples collected. Time elapsed: 2700s/3600s
+2025-06-18 12:40:58,639 - INFO - Training mode: 45/720.0 samples collected. Time elapsed: 2728s/3600s
+2025-06-18 12:41:36,069 - INFO - Training mode: 46/720.0 samples collected. Time elapsed: 2765s/3600s
+2025-06-18 12:42:03,626 - INFO - Training mode: 47/720.0 samples collected. Time elapsed: 2793s/3600s
+2025-06-18 12:42:31,592 - INFO - Training mode: 48/720.0 samples collected. Time elapsed: 2821s/3600s
+2025-06-18 12:43:08,599 - INFO - Training mode: 49/720.0 samples collected. Time elapsed: 2858s/3600s
+2025-06-18 12:43:41,743 - INFO - Training mode: 50/720.0 samples collected. Time elapsed: 2891s/3600s
+2025-06-18 12:44:14,213 - INFO - Training mode: 51/720.0 samples collected. Time elapsed: 2923s/3600s
+2025-06-18 12:44:48,027 - INFO - Training mode: 52/720.0 samples collected. Time elapsed: 2957s/3600s
+2025-06-18 12:45:33,394 - INFO - Training mode: 53/720.0 samples collected. Time elapsed: 3002s/3600s
+2025-06-18 12:46:07,288 - INFO - Training mode: 54/720.0 samples collected. Time elapsed: 3036s/3600s
+2025-06-18 12:46:35,007 - INFO - Training mode: 55/720.0 samples collected. Time elapsed: 3064s/3600s
+2025-06-18 12:47:02,838 - INFO - Training mode: 56/720.0 samples collected. Time elapsed: 3092s/3600s
+2025-06-18 12:47:50,995 - INFO - Training mode: 57/720.0 samples collected. Time elapsed: 3140s/3600s
+2025-06-18 12:48:18,579 - INFO - Training mode: 58/720.0 samples collected. Time elapsed: 3168s/3600s
+2025-06-18 12:48:51,307 - INFO - Training mode: 59/720.0 samples collected. Time elapsed: 3200s/3600s
+2025-06-18 12:49:23,971 - INFO - Training mode: 60/720.0 samples collected. Time elapsed: 3233s/3600s
+2025-06-18 12:50:01,390 - INFO - Training mode: 61/720.0 samples collected. Time elapsed: 3270s/3600s
+2025-06-18 12:50:39,216 - INFO - Training mode: 62/720.0 samples collected. Time elapsed: 3308s/3600s
+2025-06-18 12:51:11,950 - INFO - Training mode: 63/720.0 samples collected. Time elapsed: 3341s/3600s
+2025-06-18 12:51:44,052 - INFO - Training mode: 64/720.0 samples collected. Time elapsed: 3373s/3600s
+2025-06-18 12:52:16,305 - INFO - Training mode: 65/720.0 samples collected. Time elapsed: 3405s/3600s
+2025-06-18 12:52:49,052 - INFO - Training mode: 66/720.0 samples collected. Time elapsed: 3438s/3600s
+2025-06-18 12:53:21,508 - INFO - Training mode: 67/720.0 samples collected. Time elapsed: 3471s/3600s
+2025-06-18 12:53:58,537 - INFO - Training mode: 68/720.0 samples collected. Time elapsed: 3508s/3600s
+2025-06-18 12:54:30,582 - INFO - Training mode: 69/720.0 samples collected. Time elapsed: 3540s/3600s
+2025-06-18 12:55:08,174 - INFO - Training mode: 70/720.0 samples collected. Time elapsed: 3577s/3600s
+2025-06-18 12:55:45,372 - INFO - Training mode: 71/720.0 samples collected. Time elapsed: 3614s/3600s
+2025-06-18 12:55:45,373 - INFO - Starting model training with 71 data points
+2025-06-18 12:55:45,374 - WARNING - Not enough data for training. Have 71, need 1000
+2025-06-18 12:55:45,374 - WARNING - Training failed, continuing to collect data
+2025-06-18 12:56:18,152 - INFO - Training mode: 72/720.0 samples collected. Time elapsed: 33s/3600s
+2025-06-18 12:56:46,119 - INFO - Training mode: 73/720.0 samples collected. Time elapsed: 61s/3600s
+2025-06-18 12:57:14,422 - INFO - Training mode: 74/720.0 samples collected. Time elapsed: 89s/3600s
+2025-06-18 12:57:42,985 - INFO - Training mode: 75/720.0 samples collected. Time elapsed: 118s/3600s
+2025-06-18 12:58:10,912 - INFO - Training mode: 76/720.0 samples collected. Time elapsed: 146s/3600s
+2025-06-18 12:59:32,982 - INFO - Training mode: 77/720.0 samples collected. Time elapsed: 228s/3600s
+2025-06-18 13:00:31,426 - INFO - Training mode: 78/720.0 samples collected. Time elapsed: 286s/3600s
+2025-06-18 13:01:17,616 - INFO - Training mode: 79/720.0 samples collected. Time elapsed: 332s/3600s
+2025-06-18 13:01:45,743 - INFO - Training mode: 80/720.0 samples collected. Time elapsed: 360s/3600s
+2025-06-18 13:02:13,647 - INFO - Training mode: 81/720.0 samples collected. Time elapsed: 388s/3600s
+2025-06-18 13:02:42,424 - INFO - Training mode: 82/720.0 samples collected. Time elapsed: 417s/3600s
+2025-06-18 13:03:10,302 - INFO - Training mode: 83/720.0 samples collected. Time elapsed: 445s/3600s
+2025-06-18 13:04:11,125 - INFO - Training mode: 84/720.0 samples collected. Time elapsed: 506s/3600s
+2025-06-18 13:05:10,842 - INFO - Training mode: 85/720.0 samples collected. Time elapsed: 565s/3600s
+2025-06-18 13:06:15,962 - INFO - Training mode: 86/720.0 samples collected. Time elapsed: 631s/3600s
+2025-06-18 13:06:48,096 - INFO - Training mode: 87/720.0 samples collected. Time elapsed: 663s/3600s
+2025-06-18 13:07:16,738 - INFO - Training mode: 88/720.0 samples collected. Time elapsed: 691s/3600s
+2025-06-18 13:07:44,890 - INFO - Training mode: 89/720.0 samples collected. Time elapsed: 720s/3600s
+2025-06-18 13:08:17,588 - INFO - Training mode: 90/720.0 samples collected. Time elapsed: 752s/3600s
+2025-06-18 13:08:55,071 - INFO - Training mode: 91/720.0 samples collected. Time elapsed: 790s/3600s
+2025-06-18 13:09:32,830 - INFO - Training mode: 92/720.0 samples collected. Time elapsed: 827s/3600s
+2025-06-18 13:10:21,233 - INFO - Training mode: 93/720.0 samples collected. Time elapsed: 876s/3600s
+2025-06-18 13:10:59,694 - INFO - Training mode: 94/720.0 samples collected. Time elapsed: 914s/3600s
+2025-06-18 13:11:37,253 - INFO - Training mode: 95/720.0 samples collected. Time elapsed: 952s/3600s
+2025-06-18 13:12:09,811 - INFO - Training mode: 96/720.0 samples collected. Time elapsed: 984s/3600s
+2025-06-18 13:12:37,808 - INFO - Training mode: 97/720.0 samples collected. Time elapsed: 1012s/3600s
+2025-06-18 13:13:05,933 - INFO - Training mode: 98/720.0 samples collected. Time elapsed: 1041s/3600s
+2025-06-18 13:13:38,521 - INFO - Training mode: 99/720.0 samples collected. Time elapsed: 1073s/3600s
+2025-06-18 13:14:06,475 - INFO - Training mode: 100/720.0 samples collected. Time elapsed: 1101s/3600s
+2025-06-18 13:14:34,046 - INFO - Training mode: 101/720.0 samples collected. Time elapsed: 1129s/3600s
+2025-06-18 13:15:09,496 - INFO - Training mode: 102/720.0 samples collected. Time elapsed: 1164s/3600s
+2025-06-18 13:15:37,804 - INFO - Training mode: 103/720.0 samples collected. Time elapsed: 1192s/3600s
+2025-06-18 13:16:04,851 - INFO - Training mode: 104/720.0 samples collected. Time elapsed: 1219s/3600s
+2025-06-18 13:16:32,732 - INFO - Training mode: 105/720.0 samples collected. Time elapsed: 1247s/3600s
+2025-06-18 13:17:00,868 - INFO - Training mode: 106/720.0 samples collected. Time elapsed: 1275s/3600s
+2025-06-18 13:17:28,642 - INFO - Training mode: 107/720.0 samples collected. Time elapsed: 1303s/3600s
+2025-06-18 13:17:56,720 - INFO - Training mode: 108/720.0 samples collected. Time elapsed: 1331s/3600s
+2025-06-18 13:18:29,110 - INFO - Training mode: 109/720.0 samples collected. Time elapsed: 1364s/3600s
+2025-06-18 13:19:13,209 - INFO - Training mode: 110/720.0 samples collected. Time elapsed: 1408s/3600s
+2025-06-18 13:19:57,605 - INFO - Training mode: 111/720.0 samples collected. Time elapsed: 1452s/3600s
+2025-06-18 13:20:41,635 - INFO - Training mode: 112/720.0 samples collected. Time elapsed: 1496s/3600s
+2025-06-18 13:21:25,483 - INFO - Training mode: 113/720.0 samples collected. Time elapsed: 1540s/3600s
+2025-06-18 13:22:02,919 - INFO - Training mode: 114/720.0 samples collected. Time elapsed: 1578s/3600s
+2025-06-18 13:22:44,575 - INFO - Training mode: 115/720.0 samples collected. Time elapsed: 1619s/3600s
+2025-06-18 13:23:21,109 - INFO - Training mode: 116/720.0 samples collected. Time elapsed: 1656s/3600s
+2025-06-18 13:23:58,499 - INFO - Training mode: 117/720.0 samples collected. Time elapsed: 1693s/3600s
+2025-06-18 13:24:26,268 - INFO - Training mode: 118/720.0 samples collected. Time elapsed: 1721s/3600s
+2025-06-18 13:25:05,197 - INFO - Training mode: 119/720.0 samples collected. Time elapsed: 1760s/3600s
+2025-06-18 13:25:32,925 - INFO - Training mode: 120/720.0 samples collected. Time elapsed: 1788s/3600s
+2025-06-18 13:26:01,676 - INFO - Training mode: 121/720.0 samples collected. Time elapsed: 1816s/3600s
+2025-06-18 13:26:29,839 - INFO - Training mode: 122/720.0 samples collected. Time elapsed: 1844s/3600s
+2025-06-18 13:26:57,642 - INFO - Training mode: 123/720.0 samples collected. Time elapsed: 1872s/3600s
+2025-06-18 13:27:24,903 - INFO - Training mode: 124/720.0 samples collected. Time elapsed: 1900s/3600s
+2025-06-18 13:28:03,048 - INFO - Training mode: 125/720.0 samples collected. Time elapsed: 1938s/3600s
+2025-06-18 13:28:36,837 - INFO - Training mode: 126/720.0 samples collected. Time elapsed: 1971s/3600s
+2025-06-18 13:29:24,832 - INFO - Training mode: 127/720.0 samples collected. Time elapsed: 2019s/3600s
+2025-06-18 13:30:09,271 - INFO - Training mode: 128/720.0 samples collected. Time elapsed: 2064s/3600s
+2025-06-18 13:30:53,939 - INFO - Training mode: 129/720.0 samples collected. Time elapsed: 2109s/3600s
+2025-06-18 13:31:38,744 - INFO - Training mode: 130/720.0 samples collected. Time elapsed: 2153s/3600s
+2025-06-18 13:32:07,728 - INFO - Training mode: 131/720.0 samples collected. Time elapsed: 2182s/3600s
+2025-06-18 13:32:40,471 - INFO - Training mode: 132/720.0 samples collected. Time elapsed: 2215s/3600s
+2025-06-18 13:33:13,424 - INFO - Training mode: 133/720.0 samples collected. Time elapsed: 2248s/3600s
+2025-06-18 13:33:51,199 - INFO - Training mode: 134/720.0 samples collected. Time elapsed: 2286s/3600s
+2025-06-18 13:34:23,595 - INFO - Training mode: 135/720.0 samples collected. Time elapsed: 2318s/3600s
+2025-06-18 13:35:34,121 - INFO - Training mode: 136/720.0 samples collected. Time elapsed: 2389s/3600s
+2025-06-18 13:38:02,189 - INFO - Training mode: 137/720.0 samples collected. Time elapsed: 2537s/3600s
+2025-06-18 13:40:03,051 - INFO - Training mode: 138/720.0 samples collected. Time elapsed: 2658s/3600s
+2025-06-18 13:41:56,420 - INFO - Training mode: 139/720.0 samples collected. Time elapsed: 2771s/3600s
+2025-06-18 13:43:37,098 - INFO - Training mode: 140/720.0 samples collected. Time elapsed: 2872s/3600s
+2025-06-18 13:46:56,991 - INFO - Training mode: 141/720.0 samples collected. Time elapsed: 3072s/3600s
+2025-06-18 13:48:25,069 - INFO - Training mode: 142/720.0 samples collected. Time elapsed: 3160s/3600s
+2025-06-18 13:51:48,182 - INFO - Training mode: 143/720.0 samples collected. Time elapsed: 3363s/3600s
+2025-06-18 13:53:53,563 - INFO - Training mode: 144/720.0 samples collected. Time elapsed: 3488s/3600s
+2025-06-18 13:54:56,437 - INFO - Training mode: 145/720.0 samples collected. Time elapsed: 3551s/3600s
+2025-06-18 13:56:18,041 - INFO - Training mode: 146/720.0 samples collected. Time elapsed: 3633s/3600s
+2025-06-18 13:56:18,042 - INFO - Starting model training with 146 data points
+2025-06-18 13:56:18,043 - WARNING - Not enough data for training. Have 146, need 1000
+2025-06-18 13:56:18,043 - WARNING - Training failed, continuing to collect data
+2025-06-18 13:57:30,475 - INFO - Training mode: 147/720.0 samples collected. Time elapsed: 72s/3600s
+2025-06-18 13:58:42,524 - INFO - Training mode: 148/720.0 samples collected. Time elapsed: 144s/3600s
+2025-06-18 14:00:04,166 - INFO - Training mode: 149/720.0 samples collected. Time elapsed: 226s/3600s
+2025-06-18 14:00:20,578 - INFO - Training mode: 150/720.0 samples collected. Time elapsed: 243s/3600s
+2025-06-18 14:00:22,061 - INFO - Detector stopped by user
+2025-06-18 14:00:45,452 - WARNING - No model found, starting in automatic training mode first
+2025-06-18 14:00:45,459 - INFO - Starting cryptojacking detector
+2025-06-18 14:03:02,599 - INFO - Training mode: 1/360.0 samples collected. Time elapsed: 137s/3600s
+2025-06-18 14:04:12,177 - INFO - Training mode: 2/360.0 samples collected. Time elapsed: 207s/3600s
+2025-06-18 14:05:18,205 - INFO - Training mode: 3/360.0 samples collected. Time elapsed: 273s/3600s
+2025-06-18 14:05:52,201 - INFO - Training mode: 4/360.0 samples collected. Time elapsed: 307s/3600s
+2025-06-18 14:08:06,946 - INFO - Training mode: 5/360.0 samples collected. Time elapsed: 441s/3600s
+2025-06-18 14:10:43,304 - INFO - Training mode: 6/360.0 samples collected. Time elapsed: 598s/3600s
+2025-06-18 14:13:40,935 - INFO - Training mode: 7/360.0 samples collected. Time elapsed: 775s/3600s
+2025-06-18 14:15:42,074 - INFO - Training mode: 8/360.0 samples collected. Time elapsed: 897s/3600s
+2025-06-18 14:17:13,825 - INFO - Training mode: 9/360.0 samples collected. Time elapsed: 988s/3600s
+2025-06-18 14:18:34,480 - INFO - Training mode: 10/360.0 samples collected. Time elapsed: 1069s/3600s
+2025-06-18 20:00:16,975 - WARNING - No model found, starting in automatic training mode first
+2025-06-18 20:00:16,999 - INFO - Starting cryptojacking detector
+2025-06-18 20:01:50,164 - INFO - Training mode: 1/1200.0 samples collected. Time elapsed: 93s/3600s
+2025-06-18 20:03:17,888 - INFO - Training mode: 2/1200.0 samples collected. Time elapsed: 181s/3600s
+2025-06-18 20:04:22,959 - INFO - Training mode: 3/1200.0 samples collected. Time elapsed: 246s/3600s
+2025-06-18 20:05:14,120 - INFO - Training mode: 4/1200.0 samples collected. Time elapsed: 297s/3600s
+2025-06-18 20:05:57,982 - INFO - Training mode: 5/1200.0 samples collected. Time elapsed: 341s/3600s
+2025-06-18 20:07:11,619 - INFO - Training mode: 6/1200.0 samples collected. Time elapsed: 415s/3600s
+2025-06-18 20:08:15,755 - INFO - Training mode: 7/1200.0 samples collected. Time elapsed: 479s/3600s
+2025-06-18 20:10:23,234 - INFO - Training mode: 8/1200.0 samples collected. Time elapsed: 606s/3600s
+2025-06-18 20:11:57,042 - INFO - Training mode: 9/1200.0 samples collected. Time elapsed: 700s/3600s
+2025-06-18 20:14:28,865 - INFO - Training mode: 10/1200.0 samples collected. Time elapsed: 852s/3600s
+2025-06-18 20:15:41,325 - INFO - Training mode: 11/1200.0 samples collected. Time elapsed: 924s/3600s
+2025-06-18 20:17:02,510 - INFO - Training mode: 12/1200.0 samples collected. Time elapsed: 1005s/3600s
+2025-06-18 20:18:09,024 - INFO - Training mode: 13/1200.0 samples collected. Time elapsed: 1072s/3600s
+2025-06-18 20:19:15,453 - INFO - Training mode: 14/1200.0 samples collected. Time elapsed: 1138s/3600s
+2025-06-18 20:20:29,852 - INFO - Training mode: 15/1200.0 samples collected. Time elapsed: 1213s/3600s
+2025-06-18 20:21:54,486 - INFO - Training mode: 16/1200.0 samples collected. Time elapsed: 1297s/3600s
+2025-06-18 20:23:55,980 - INFO - Training mode: 17/1200.0 samples collected. Time elapsed: 1419s/3600s
+2025-06-18 20:25:52,458 - INFO - Training mode: 18/1200.0 samples collected. Time elapsed: 1535s/3600s
+2025-06-18 20:26:37,498 - INFO - Training mode: 19/1200.0 samples collected. Time elapsed: 1580s/3600s
+2025-06-18 20:27:55,014 - INFO - Training mode: 20/1200.0 samples collected. Time elapsed: 1658s/3600s
+2025-06-18 20:32:29,900 - INFO - Training mode: 21/1200.0 samples collected. Time elapsed: 1933s/3600s
+2025-06-18 20:34:52,299 - INFO - Training mode: 22/1200.0 samples collected. Time elapsed: 2075s/3600s
+2025-06-18 20:36:00,176 - INFO - Training mode: 23/1200.0 samples collected. Time elapsed: 2143s/3600s
+2025-06-18 20:39:31,285 - INFO - Training mode: 24/1200.0 samples collected. Time elapsed: 2354s/3600s
+2025-06-18 20:41:47,836 - INFO - Training mode: 25/1200.0 samples collected. Time elapsed: 2491s/3600s
+2025-06-18 20:44:11,078 - INFO - Training mode: 26/1200.0 samples collected. Time elapsed: 2634s/3600s
+2025-06-18 20:46:17,073 - INFO - Training mode: 27/1200.0 samples collected. Time elapsed: 2760s/3600s
+2025-06-18 20:47:54,616 - INFO - Training mode: 28/1200.0 samples collected. Time elapsed: 2858s/3600s
+2025-06-18 20:50:33,751 - INFO - Training mode: 29/1200.0 samples collected. Time elapsed: 3017s/3600s
+2025-06-18 20:53:37,219 - INFO - Training mode: 30/1200.0 samples collected. Time elapsed: 3200s/3600s
+2025-06-18 20:56:11,531 - INFO - Training mode: 31/1200.0 samples collected. Time elapsed: 3354s/3600s
+2025-06-18 20:58:31,964 - INFO - Training mode: 32/1200.0 samples collected. Time elapsed: 3495s/3600s
+2025-06-18 21:00:00,838 - INFO - Training mode: 33/1200.0 samples collected. Time elapsed: 3584s/3600s
+2025-06-18 21:01:22,976 - INFO - Training mode: 34/1200.0 samples collected. Time elapsed: 3666s/3600s
+2025-06-18 21:01:23,001 - INFO - Starting model training with 34 data points
+2025-06-18 21:01:23,005 - WARNING - Not enough data for training. Have 34, need 1000
+2025-06-18 21:01:23,013 - WARNING - Training failed, continuing to collect data
+2025-06-18 21:02:19,759 - INFO - Training mode: 35/1200.0 samples collected. Time elapsed: 57s/3600s
+2025-06-18 21:03:24,032 - INFO - Training mode: 36/1200.0 samples collected. Time elapsed: 121s/3600s
+2025-06-18 21:04:30,694 - INFO - Training mode: 37/1200.0 samples collected. Time elapsed: 188s/3600s
+2025-06-18 21:07:37,656 - INFO - Training mode: 38/1200.0 samples collected. Time elapsed: 375s/3600s
+2025-06-18 21:10:17,454 - INFO - Training mode: 39/1200.0 samples collected. Time elapsed: 534s/3600s
+2025-06-18 21:12:55,038 - INFO - Training mode: 40/1200.0 samples collected. Time elapsed: 692s/3600s
+2025-06-18 21:15:00,425 - INFO - Training mode: 41/1200.0 samples collected. Time elapsed: 817s/3600s
+2025-06-18 21:16:37,791 - INFO - Training mode: 42/1200.0 samples collected. Time elapsed: 915s/3600s
+2025-06-18 21:18:23,951 - INFO - Training mode: 43/1200.0 samples collected. Time elapsed: 1021s/3600s
+2025-06-18 21:20:17,659 - INFO - Training mode: 44/1200.0 samples collected. Time elapsed: 1135s/3600s
+2025-06-18 21:22:09,051 - INFO - Training mode: 45/1200.0 samples collected. Time elapsed: 1246s/3600s
+2025-06-18 21:23:33,748 - INFO - Training mode: 46/1200.0 samples collected. Time elapsed: 1331s/3600s
+2025-06-18 21:25:05,725 - INFO - Training mode: 47/1200.0 samples collected. Time elapsed: 1423s/3600s
+2025-06-18 21:26:26,394 - INFO - Training mode: 48/1200.0 samples collected. Time elapsed: 1503s/3600s
+2025-06-18 21:27:57,208 - INFO - Training mode: 49/1200.0 samples collected. Time elapsed: 1594s/3600s
+2025-06-18 21:31:08,781 - INFO - Training mode: 50/1200.0 samples collected. Time elapsed: 1786s/3600s
+2025-06-18 21:33:07,406 - INFO - Training mode: 51/1200.0 samples collected. Time elapsed: 1904s/3600s
+2025-06-18 21:34:56,351 - INFO - Training mode: 52/1200.0 samples collected. Time elapsed: 2013s/3600s
+2025-06-18 21:36:29,696 - INFO - Training mode: 53/1200.0 samples collected. Time elapsed: 2107s/3600s
+2025-06-18 21:38:01,810 - INFO - Training mode: 54/1200.0 samples collected. Time elapsed: 2199s/3600s
+2025-06-18 21:57:02,186 - INFO - Training mode: 55/1200.0 samples collected. Time elapsed: 3339s/3600s
+2025-06-18 21:59:37,918 - INFO - Training mode: 56/1200.0 samples collected. Time elapsed: 3495s/3600s
+2025-06-18 22:00:47,916 - INFO - Training mode: 57/1200.0 samples collected. Time elapsed: 3565s/3600s
+2025-06-18 22:00:57,747 - INFO - Training mode: 58/1200.0 samples collected. Time elapsed: 3575s/3600s
+2025-06-18 22:01:08,426 - INFO - Training mode: 59/1200.0 samples collected. Time elapsed: 3585s/3600s
+2025-06-18 22:01:11,765 - INFO - Detector stopped by user
+2025-06-18 22:02:24,941 - INFO - Starting cryptojacking detector
+2025-06-18 22:04:04,230 - INFO - Training mode: 1/1000.0 samples collected. Time elapsed: 99s/1000s
+2025-06-18 22:04:57,371 - INFO - Training mode: 2/1000.0 samples collected. Time elapsed: 152s/1000s
+2025-06-18 22:06:25,903 - INFO - Training mode: 3/1000.0 samples collected. Time elapsed: 241s/1000s
+2025-06-18 22:07:48,301 - INFO - Training mode: 4/1000.0 samples collected. Time elapsed: 323s/1000s
+2025-06-18 22:09:26,702 - INFO - Training mode: 5/1000.0 samples collected. Time elapsed: 422s/1000s
+2025-06-18 22:10:57,729 - INFO - Training mode: 6/1000.0 samples collected. Time elapsed: 513s/1000s
+2025-06-18 22:12:22,268 - INFO - Training mode: 7/1000.0 samples collected. Time elapsed: 597s/1000s
+2025-06-18 22:14:22,190 - INFO - Training mode: 8/1000.0 samples collected. Time elapsed: 717s/1000s
+2025-06-18 22:15:56,888 - INFO - Training mode: 9/1000.0 samples collected. Time elapsed: 812s/1000s
+2025-06-18 22:16:54,885 - INFO - Training mode: 10/1000.0 samples collected. Time elapsed: 870s/1000s
+2025-06-18 22:18:38,336 - INFO - Training mode: 11/1000.0 samples collected. Time elapsed: 973s/1000s
+2025-06-18 22:20:04,335 - INFO - Training mode: 12/1000.0 samples collected. Time elapsed: 1059s/1000s
+2025-06-18 22:20:04,336 - INFO - Starting model training with 12 data points
+2025-06-18 22:20:04,476 - WARNING - Not enough data for training. Have 12, need 1000
+2025-06-18 22:20:04,601 - WARNING - Training failed, continuing to collect data
+2025-06-18 22:21:00,415 - INFO - Training mode: 13/1000.0 samples collected. Time elapsed: 56s/1000s
+2025-06-18 22:22:05,136 - INFO - Training mode: 14/1000.0 samples collected. Time elapsed: 120s/1000s
+2025-06-18 22:23:47,254 - INFO - Training mode: 15/1000.0 samples collected. Time elapsed: 222s/1000s
+2025-06-18 22:25:03,017 - INFO - Training mode: 16/1000.0 samples collected. Time elapsed: 298s/1000s
+2025-06-18 22:26:04,965 - INFO - Training mode: 17/1000.0 samples collected. Time elapsed: 360s/1000s
+2025-06-18 22:27:15,233 - INFO - Training mode: 18/1000.0 samples collected. Time elapsed: 430s/1000s
+2025-06-18 22:28:56,248 - INFO - Training mode: 19/1000.0 samples collected. Time elapsed: 531s/1000s
+2025-06-18 22:30:15,792 - INFO - Training mode: 20/1000.0 samples collected. Time elapsed: 611s/1000s
+2025-06-18 22:32:59,359 - INFO - Training mode: 21/1000.0 samples collected. Time elapsed: 775s/1000s
+2025-06-18 22:34:41,497 - INFO - Training mode: 22/1000.0 samples collected. Time elapsed: 877s/1000s
+2025-06-18 22:35:34,159 - INFO - Training mode: 23/1000.0 samples collected. Time elapsed: 929s/1000s
+2025-06-18 22:36:37,420 - INFO - Training mode: 24/1000.0 samples collected. Time elapsed: 993s/1000s
+2025-06-18 22:37:39,084 - INFO - Training mode: 25/1000.0 samples collected. Time elapsed: 1054s/1000s
+2025-06-18 22:37:39,097 - INFO - Starting model training with 25 data points
+2025-06-18 22:37:39,098 - WARNING - Not enough data for training. Have 25, need 1000
+2025-06-18 22:37:39,099 - WARNING - Training failed, continuing to collect data
+2025-06-18 22:39:04,956 - INFO - Training mode: 26/1000.0 samples collected. Time elapsed: 86s/1000s
+2025-06-18 22:40:36,161 - INFO - Training mode: 27/1000.0 samples collected. Time elapsed: 177s/1000s
+2025-06-18 22:42:36,155 - INFO - Training mode: 28/1000.0 samples collected. Time elapsed: 297s/1000s
+2025-06-18 22:44:03,104 - INFO - Training mode: 29/1000.0 samples collected. Time elapsed: 384s/1000s
+2025-06-18 22:45:37,941 - INFO - Training mode: 30/1000.0 samples collected. Time elapsed: 479s/1000s
+2025-06-18 22:47:43,953 - INFO - Training mode: 31/1000.0 samples collected. Time elapsed: 605s/1000s
+2025-06-18 22:49:10,783 - INFO - Training mode: 32/1000.0 samples collected. Time elapsed: 692s/1000s
+2025-06-18 22:50:23,098 - INFO - Training mode: 33/1000.0 samples collected. Time elapsed: 764s/1000s
+2025-06-18 22:51:41,350 - INFO - Training mode: 34/1000.0 samples collected. Time elapsed: 842s/1000s
+2025-06-18 22:53:26,036 - INFO - Training mode: 35/1000.0 samples collected. Time elapsed: 947s/1000s
+2025-06-18 22:55:32,853 - INFO - Training mode: 36/1000.0 samples collected. Time elapsed: 1074s/1000s
+2025-06-18 22:55:32,861 - INFO - Starting model training with 36 data points
+2025-06-18 22:55:32,862 - WARNING - Not enough data for training. Have 36, need 1000
+2025-06-18 22:55:32,862 - WARNING - Training failed, continuing to collect data
+2025-06-18 22:56:43,429 - INFO - Training mode: 37/1000.0 samples collected. Time elapsed: 71s/1000s
+2025-06-18 22:58:30,785 - INFO - Training mode: 38/1000.0 samples collected. Time elapsed: 178s/1000s
+2025-06-18 22:59:46,919 - INFO - Training mode: 39/1000.0 samples collected. Time elapsed: 254s/1000s
+2025-06-18 23:00:46,462 - INFO - Training mode: 40/1000.0 samples collected. Time elapsed: 314s/1000s
+2025-06-18 23:03:28,504 - INFO - Training mode: 41/1000.0 samples collected. Time elapsed: 476s/1000s
+2025-06-18 23:05:08,668 - INFO - Training mode: 42/1000.0 samples collected. Time elapsed: 576s/1000s
+2025-06-18 23:06:30,402 - INFO - Training mode: 43/1000.0 samples collected. Time elapsed: 658s/1000s
+2025-06-18 23:07:38,864 - INFO - Training mode: 44/1000.0 samples collected. Time elapsed: 726s/1000s
+2025-06-18 23:08:59,264 - INFO - Training mode: 45/1000.0 samples collected. Time elapsed: 806s/1000s
+2025-06-18 23:10:55,932 - INFO - Training mode: 46/1000.0 samples collected. Time elapsed: 923s/1000s
+2025-06-18 23:12:07,968 - INFO - Training mode: 47/1000.0 samples collected. Time elapsed: 995s/1000s
+2025-06-18 23:14:08,912 - INFO - Training mode: 48/1000.0 samples collected. Time elapsed: 1116s/1000s
+2025-06-18 23:14:08,932 - INFO - Starting model training with 48 data points
+2025-06-18 23:14:08,934 - WARNING - Not enough data for training. Have 48, need 1000
+2025-06-18 23:14:08,935 - WARNING - Training failed, continuing to collect data
+2025-06-18 23:15:49,991 - INFO - Training mode: 49/1000.0 samples collected. Time elapsed: 101s/1000s
+2025-06-18 23:17:16,527 - INFO - Training mode: 50/1000.0 samples collected. Time elapsed: 188s/1000s
+2025-06-18 23:18:55,652 - INFO - Training mode: 51/1000.0 samples collected. Time elapsed: 287s/1000s
+2025-06-18 23:20:39,771 - INFO - Training mode: 52/1000.0 samples collected. Time elapsed: 391s/1000s
+2025-06-18 23:22:13,812 - INFO - Training mode: 53/1000.0 samples collected. Time elapsed: 485s/1000s
+2025-06-18 23:24:36,082 - INFO - Training mode: 54/1000.0 samples collected. Time elapsed: 627s/1000s
+2025-06-18 23:26:05,746 - INFO - Training mode: 55/1000.0 samples collected. Time elapsed: 717s/1000s
+2025-06-18 23:27:11,999 - INFO - Training mode: 56/1000.0 samples collected. Time elapsed: 783s/1000s
+2025-06-18 23:28:20,777 - INFO - Training mode: 57/1000.0 samples collected. Time elapsed: 852s/1000s
+2025-06-18 23:29:30,328 - INFO - Training mode: 58/1000.0 samples collected. Time elapsed: 921s/1000s
+2025-06-18 23:30:41,040 - INFO - Training mode: 59/1000.0 samples collected. Time elapsed: 992s/1000s
+2025-06-18 23:32:05,020 - INFO - Training mode: 60/1000.0 samples collected. Time elapsed: 1076s/1000s
+2025-06-18 23:32:05,046 - INFO - Starting model training with 60 data points
+2025-06-18 23:32:05,047 - WARNING - Not enough data for training. Have 60, need 1000
+2025-06-18 23:32:05,048 - WARNING - Training failed, continuing to collect data
+2025-06-18 23:33:39,993 - INFO - Training mode: 61/1000.0 samples collected. Time elapsed: 95s/1000s
+2025-06-18 23:34:53,732 - INFO - Training mode: 62/1000.0 samples collected. Time elapsed: 169s/1000s
+2025-06-18 23:37:16,453 - INFO - Training mode: 63/1000.0 samples collected. Time elapsed: 311s/1000s
+2025-06-18 23:38:24,916 - INFO - Training mode: 64/1000.0 samples collected. Time elapsed: 380s/1000s
+2025-06-18 23:39:45,165 - INFO - Training mode: 65/1000.0 samples collected. Time elapsed: 460s/1000s
+2025-06-18 23:40:56,468 - INFO - Training mode: 66/1000.0 samples collected. Time elapsed: 531s/1000s
+2025-06-18 23:42:41,044 - INFO - Training mode: 67/1000.0 samples collected. Time elapsed: 636s/1000s
+2025-06-18 23:43:49,171 - INFO - Training mode: 68/1000.0 samples collected. Time elapsed: 704s/1000s
+2025-06-18 23:45:15,277 - INFO - Training mode: 69/1000.0 samples collected. Time elapsed: 790s/1000s
+2025-06-18 23:46:52,105 - INFO - Training mode: 70/1000.0 samples collected. Time elapsed: 887s/1000s
+2025-06-18 23:48:54,914 - INFO - Training mode: 71/1000.0 samples collected. Time elapsed: 1010s/1000s
+2025-06-18 23:48:54,936 - INFO - Starting model training with 71 data points
+2025-06-18 23:48:54,937 - WARNING - Not enough data for training. Have 71, need 1000
+2025-06-18 23:48:54,938 - WARNING - Training failed, continuing to collect data
+2025-06-18 23:51:36,279 - INFO - Training mode: 72/1000.0 samples collected. Time elapsed: 161s/1000s
+2025-06-18 23:53:01,448 - INFO - Training mode: 73/1000.0 samples collected. Time elapsed: 247s/1000s
+2025-06-18 23:54:36,469 - INFO - Training mode: 74/1000.0 samples collected. Time elapsed: 342s/1000s
+2025-06-18 23:56:14,274 - INFO - Training mode: 75/1000.0 samples collected. Time elapsed: 439s/1000s
+2025-06-18 23:57:23,020 - INFO - Training mode: 76/1000.0 samples collected. Time elapsed: 508s/1000s
+2025-06-18 23:58:36,567 - INFO - Training mode: 77/1000.0 samples collected. Time elapsed: 582s/1000s
+2025-06-18 23:59:37,828 - INFO - Training mode: 78/1000.0 samples collected. Time elapsed: 643s/1000s
+2025-06-19 00:00:57,304 - INFO - Training mode: 79/1000.0 samples collected. Time elapsed: 722s/1000s
+2025-06-19 00:02:23,590 - INFO - Training mode: 80/1000.0 samples collected. Time elapsed: 809s/1000s
+2025-06-19 00:03:32,322 - INFO - Training mode: 81/1000.0 samples collected. Time elapsed: 877s/1000s
+2025-06-19 00:04:30,810 - INFO - Training mode: 82/1000.0 samples collected. Time elapsed: 936s/1000s
+2025-06-19 00:05:40,857 - INFO - Training mode: 83/1000.0 samples collected. Time elapsed: 1006s/1000s
+2025-06-19 00:05:40,857 - INFO - Starting model training with 83 data points
+2025-06-19 00:05:40,858 - WARNING - Not enough data for training. Have 83, need 1000
+2025-06-19 00:05:40,859 - WARNING - Training failed, continuing to collect data
+2025-06-19 00:06:38,942 - INFO - Training mode: 84/1000.0 samples collected. Time elapsed: 58s/1000s
+2025-06-19 00:07:53,637 - INFO - Training mode: 85/1000.0 samples collected. Time elapsed: 133s/1000s
+2025-06-19 00:08:48,422 - INFO - Training mode: 86/1000.0 samples collected. Time elapsed: 188s/1000s
+2025-06-19 00:09:59,761 - INFO - Training mode: 87/1000.0 samples collected. Time elapsed: 259s/1000s
+2025-06-19 00:11:12,958 - INFO - Training mode: 88/1000.0 samples collected. Time elapsed: 332s/1000s
+2025-06-19 00:12:10,249 - INFO - Training mode: 89/1000.0 samples collected. Time elapsed: 389s/1000s
+2025-06-19 00:14:37,190 - INFO - Training mode: 90/1000.0 samples collected. Time elapsed: 536s/1000s
+2025-06-19 00:17:30,455 - INFO - Training mode: 91/1000.0 samples collected. Time elapsed: 710s/1000s
+2025-06-19 00:18:20,619 - INFO - Training mode: 92/1000.0 samples collected. Time elapsed: 760s/1000s
+2025-06-19 00:19:21,936 - INFO - Training mode: 93/1000.0 samples collected. Time elapsed: 821s/1000s
+2025-06-19 00:20:13,300 - INFO - Training mode: 94/1000.0 samples collected. Time elapsed: 872s/1000s
+2025-06-19 00:21:09,824 - INFO - Training mode: 95/1000.0 samples collected. Time elapsed: 929s/1000s
+2025-06-19 00:21:55,626 - INFO - Training mode: 96/1000.0 samples collected. Time elapsed: 975s/1000s
+2025-06-19 00:23:07,253 - INFO - Training mode: 97/1000.0 samples collected. Time elapsed: 1046s/1000s
+2025-06-19 00:23:07,254 - INFO - Starting model training with 97 data points
+2025-06-19 00:23:07,255 - WARNING - Not enough data for training. Have 97, need 1000
+2025-06-19 00:23:07,255 - WARNING - Training failed, continuing to collect data
+2025-06-19 00:24:12,928 - INFO - Training mode: 98/1000.0 samples collected. Time elapsed: 66s/1000s
+2025-06-19 00:24:59,060 - INFO - Training mode: 99/1000.0 samples collected. Time elapsed: 112s/1000s
+2025-06-19 00:25:58,725 - INFO - Training mode: 100/1000.0 samples collected. Time elapsed: 171s/1000s
+2025-06-19 00:26:35,558 - INFO - Training mode: 101/1000.0 samples collected. Time elapsed: 208s/1000s
+2025-06-19 00:28:31,960 - INFO - Training mode: 102/1000.0 samples collected. Time elapsed: 325s/1000s
+2025-06-19 00:30:14,146 - INFO - Training mode: 103/1000.0 samples collected. Time elapsed: 427s/1000s
+2025-06-19 00:31:22,592 - INFO - Training mode: 104/1000.0 samples collected. Time elapsed: 495s/1000s
+2025-06-19 02:14:44,017 - INFO - Training mode: 105/1000.0 samples collected. Time elapsed: 6697s/1000s
+2025-06-19 02:14:44,059 - INFO - Starting model training with 105 data points
+2025-06-19 02:14:44,110 - WARNING - Not enough data for training. Have 105, need 1000
+2025-06-19 02:14:44,135 - WARNING - Training failed, continuing to collect data
+2025-06-19 02:16:38,822 - INFO - Training mode: 106/1000.0 samples collected. Time elapsed: 115s/1000s
+2025-06-19 02:20:12,908 - INFO - Training mode: 107/1000.0 samples collected. Time elapsed: 329s/1000s
+2025-06-19 02:21:31,211 - INFO - Training mode: 108/1000.0 samples collected. Time elapsed: 407s/1000s
+2025-06-19 02:23:15,779 - INFO - Training mode: 109/1000.0 samples collected. Time elapsed: 512s/1000s
+2025-06-19 02:24:25,423 - INFO - Training mode: 110/1000.0 samples collected. Time elapsed: 581s/1000s
+2025-06-19 02:25:52,991 - INFO - Training mode: 111/1000.0 samples collected. Time elapsed: 669s/1000s
+2025-06-19 02:27:49,671 - INFO - Training mode: 112/1000.0 samples collected. Time elapsed: 786s/1000s
+2025-06-19 02:29:21,678 - INFO - Training mode: 113/1000.0 samples collected. Time elapsed: 878s/1000s
+2025-06-19 02:30:58,304 - INFO - Training mode: 114/1000.0 samples collected. Time elapsed: 974s/1000s
+2025-06-19 02:32:33,222 - INFO - Training mode: 115/1000.0 samples collected. Time elapsed: 1069s/1000s
+2025-06-19 02:32:33,230 - INFO - Starting model training with 115 data points
+2025-06-19 02:32:33,231 - WARNING - Not enough data for training. Have 115, need 1000
+2025-06-19 02:32:33,232 - WARNING - Training failed, continuing to collect data
+2025-06-19 02:34:42,616 - INFO - Training mode: 116/1000.0 samples collected. Time elapsed: 129s/1000s
+2025-06-19 02:36:34,453 - INFO - Training mode: 117/1000.0 samples collected. Time elapsed: 241s/1000s
+2025-06-19 02:38:23,254 - INFO - Training mode: 118/1000.0 samples collected. Time elapsed: 350s/1000s
+2025-06-19 02:39:56,197 - INFO - Training mode: 119/1000.0 samples collected. Time elapsed: 443s/1000s
+2025-06-19 02:42:11,157 - INFO - Training mode: 120/1000.0 samples collected. Time elapsed: 578s/1000s
+2025-06-19 02:43:40,673 - INFO - Training mode: 121/1000.0 samples collected. Time elapsed: 667s/1000s
+2025-06-19 02:46:25,231 - INFO - Training mode: 122/1000.0 samples collected. Time elapsed: 832s/1000s
+2025-06-19 02:49:16,729 - INFO - Training mode: 123/1000.0 samples collected. Time elapsed: 1003s/1000s
+2025-06-19 02:49:16,747 - INFO - Starting model training with 123 data points
+2025-06-19 02:49:16,747 - WARNING - Not enough data for training. Have 123, need 1000
+2025-06-19 02:49:16,749 - WARNING - Training failed, continuing to collect data
+2025-06-19 02:51:00,527 - INFO - Training mode: 124/1000.0 samples collected. Time elapsed: 104s/1000s
+2025-06-19 02:54:16,003 - INFO - Training mode: 125/1000.0 samples collected. Time elapsed: 299s/1000s
+2025-06-19 02:54:33,156 - INFO - Training mode: 126/1000.0 samples collected. Time elapsed: 316s/1000s
+2025-06-19 02:54:36,110 - INFO - Detector stopped by user
+2025-06-20 22:34:04,298 - WARNING - No model found, starting in automatic training mode first
+2025-06-20 22:34:04,300 - INFO - Starting cryptojacking detector
+2025-06-20 22:39:09,976 - INFO - Training mode: 1/1200.0 samples collected. Time elapsed: 306s/3600s
+2025-06-20 22:40:13,945 - INFO - Training mode: 2/1200.0 samples collected. Time elapsed: 370s/3600s
+2025-06-20 22:42:21,852 - INFO - Training mode: 3/1200.0 samples collected. Time elapsed: 498s/3600s
+2025-06-20 22:43:09,184 - INFO - Training mode: 4/1200.0 samples collected. Time elapsed: 545s/3600s
+2025-06-20 22:47:03,668 - INFO - Training mode: 5/1200.0 samples collected. Time elapsed: 779s/3600s
+2025-06-20 22:47:53,293 - INFO - Training mode: 6/1200.0 samples collected. Time elapsed: 829s/3600s
+2025-06-20 22:48:29,550 - INFO - Training mode: 7/1200.0 samples collected. Time elapsed: 865s/3600s
+2025-06-20 22:48:29,690 - INFO - Detector stopped by user
+2025-06-20 23:06:26,169 - INFO - Model loaded successfully
+2025-06-20 23:06:26,176 - INFO - Starting cryptojacking detector
+2025-06-20 23:08:24,369 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:10:13,778 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:12:16,748 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:14:30,640 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:16:33,387 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:17:53,504 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:18:25,657 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:18:37,533 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:19:07,255 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:19:32,398 - INFO - Detector stopped by user
+2025-06-20 23:20:24,339 - INFO - Model loaded successfully
+2025-06-20 23:20:24,340 - INFO - Starting cryptojacking detector
+2025-06-20 23:21:41,184 - WARNING - Threat level: 1.00, CPU: 36.6%, Memory: 56.6%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:21:41,186 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:24:07,125 - WARNING - Threat level: 1.00, CPU: 34.7%, Memory: 56.5%, Net: Up 10.4KB/s Down 5.0KB/s
+2025-06-20 23:24:07,133 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:25:47,660 - WARNING - Threat level: 1.00, CPU: 51.2%, Memory: 57.1%, Net: Up 12.0KB/s Down 51.5KB/s
+2025-06-20 23:25:47,661 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:27:08,465 - WARNING - Threat level: 1.00, CPU: 60.9%, Memory: 57.5%, Net: Up 8.8KB/s Down 3.4KB/s
+2025-06-20 23:27:08,471 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:28:38,109 - WARNING - Threat level: 1.00, CPU: 50.4%, Memory: 57.3%, Net: Up 9.0KB/s Down 5.4KB/s
+2025-06-20 23:28:38,110 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:30:10,946 - WARNING - Threat level: 1.00, CPU: 48.4%, Memory: 56.9%, Net: Up 10.5KB/s Down 3.6KB/s
+2025-06-20 23:30:10,948 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:31:34,285 - WARNING - Threat level: 1.00, CPU: 62.4%, Memory: 56.5%, Net: Up 8.7KB/s Down 3.2KB/s
+2025-06-20 23:31:34,306 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:32:51,934 - WARNING - Threat level: 1.00, CPU: 64.2%, Memory: 56.8%, Net: Up 10.2KB/s Down 4.1KB/s
+2025-06-20 23:32:51,936 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:34:10,616 - WARNING - Threat level: 1.00, CPU: 56.6%, Memory: 57.0%, Net: Up 9.7KB/s Down 4.4KB/s
+2025-06-20 23:34:10,619 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:36:08,874 - WARNING - Threat level: 1.00, CPU: 92.3%, Memory: 57.7%, Net: Up 14.8KB/s Down 95.0KB/s
+2025-06-20 23:36:08,918 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:37:41,919 - WARNING - Threat level: 1.00, CPU: 71.7%, Memory: 59.7%, Net: Up 8.7KB/s Down 7.1KB/s
+2025-06-20 23:37:41,921 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:39:12,907 - WARNING - Threat level: 1.00, CPU: 49.2%, Memory: 58.6%, Net: Up 7.6KB/s Down 3.3KB/s
+2025-06-20 23:39:12,910 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:40:22,571 - WARNING - Threat level: 1.00, CPU: 97.7%, Memory: 57.7%, Net: Up 8.4KB/s Down 3.0KB/s
+2025-06-20 23:40:22,572 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:42:13,358 - WARNING - Threat level: 1.00, CPU: 53.1%, Memory: 56.5%, Net: Up 9.8KB/s Down 3.0KB/s
+2025-06-20 23:42:13,359 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:43:50,345 - WARNING - Threat level: 1.00, CPU: 41.0%, Memory: 54.7%, Net: Up 10.3KB/s Down 6.6KB/s
+2025-06-20 23:43:50,397 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:45:59,742 - WARNING - Threat level: 1.00, CPU: 37.6%, Memory: 56.5%, Net: Up 11.6KB/s Down 12.2KB/s
+2025-06-20 23:45:59,743 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:46:22,865 - WARNING - Threat level: 1.00, CPU: 99.8%, Memory: 59.0%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:46:22,872 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:46:43,983 - WARNING - Threat level: 1.00, CPU: 52.0%, Memory: 57.7%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:46:43,989 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:46:52,362 - WARNING - Threat level: 1.00, CPU: 46.5%, Memory: 57.5%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:46:52,363 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:46:59,818 - WARNING - Threat level: 1.00, CPU: 74.8%, Memory: 57.4%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:46:59,820 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:47:11,343 - WARNING - Threat level: 1.00, CPU: 99.8%, Memory: 58.8%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:47:11,344 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:47:19,788 - WARNING - Threat level: 1.00, CPU: 26.2%, Memory: 58.4%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:47:19,789 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:47:27,097 - WARNING - Threat level: 1.00, CPU: 47.3%, Memory: 57.8%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:47:27,098 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:47:34,899 - WARNING - Threat level: 1.00, CPU: 66.3%, Memory: 57.9%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:47:34,899 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:47:42,088 - WARNING - Threat level: 1.00, CPU: 34.4%, Memory: 57.4%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:47:42,089 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:47:53,022 - WARNING - Threat level: 1.00, CPU: 63.1%, Memory: 58.0%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:47:53,034 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:48:05,502 - WARNING - Threat level: 1.00, CPU: 46.7%, Memory: 58.8%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:48:05,543 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:48:13,195 - WARNING - Threat level: 1.00, CPU: 66.3%, Memory: 60.0%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-20 23:48:13,203 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:49:39,374 - WARNING - Threat level: 1.00, CPU: 100.0%, Memory: 59.9%, Net: Up 6.5KB/s Down 12.0KB/s
+2025-06-20 23:49:39,374 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:50:45,627 - WARNING - Threat level: 1.00, CPU: 41.1%, Memory: 59.5%, Net: Up 10.4KB/s Down 5.5KB/s
+2025-06-20 23:50:45,636 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:51:10,619 - WARNING - Threat level: 1.00, CPU: 90.6%, Memory: 58.0%, Net: Up 9.6KB/s Down 4.2KB/s
+2025-06-20 23:51:10,620 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-20 23:52:03,340 - INFO - Detector stopped by user
+2025-06-22 22:16:20,996 - INFO - Model loaded successfully
+2025-06-22 22:16:21,007 - INFO - Starting cryptojacking detector
+2025-06-22 22:18:42,006 - WARNING - Threat level: 1.00, CPU: 100.0%, Memory: 67.4%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-22 22:18:42,014 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-22 22:19:48,172 - INFO - Detector stopped by user
+2025-06-22 23:14:03,326 - INFO - Model loaded successfully
+2025-06-22 23:14:03,330 - INFO - Starting cryptojacking detector
+2025-06-22 23:14:06,140 - INFO - Detector stopped by user
+2025-06-23 12:13:47,827 - INFO - Model loaded successfully
+2025-06-23 12:13:47,836 - INFO - Starting cryptojacking detector
+2025-06-23 12:15:43,102 - WARNING - Threat level: 1.00, CPU: 100.0%, Memory: 60.9%, Net: Up 0.0KB/s Down 0.0KB/s
+2025-06-23 12:15:43,112 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-23 12:16:24,212 - WARNING - Threat level: 1.00, CPU: 34.6%, Memory: 60.4%, Net: Up 2.9KB/s Down 1.7KB/s
+2025-06-23 12:16:24,218 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-23 12:17:28,589 - WARNING - Threat level: 1.00, CPU: 100.0%, Memory: 61.8%, Net: Up 10.9KB/s Down 23.4KB/s
+2025-06-23 12:17:28,590 - WARNING - ALERT: Potential cryptojacking activity detected! Threat level: 1.00
+2025-06-23 12:17:28,630 - INFO - Detector stopped by user

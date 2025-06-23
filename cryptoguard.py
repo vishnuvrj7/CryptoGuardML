@@ -296,7 +296,7 @@ class CryptojackingDetector:
                         f"Threat level: {threat_level:.2f}, "
                         f"CPU: {metrics['cpu_percent']}%, "
                         f"Memory: {metrics['memory_percent']}%, "
-                        f"Net: ↑{metrics['net_bytes_sent_rate']/1024:.1f}KB/s ↓{metrics['net_bytes_recv_rate']/1024:.1f}KB/s"
+                        f"Net: Up {metrics['net_bytes_sent_rate']/1024:.1f}KB/s Down {metrics['net_bytes_recv_rate']/1024:.1f}KB/s"
                     )
                     
                     if threat_level > self.detection_threshold:
@@ -335,7 +335,7 @@ def main():
     parser = argparse.ArgumentParser(description="CryptoGuardML - Machine Learning-based Cryptojacking Detector")
     parser.add_argument("--train", action="store_true", help="Start in training mode")
     parser.add_argument("--model", default="cryptojacking_model.pkl", help="Path to model file")
-    parser.add_argument("--interval", type=int, default=5, help="Monitoring interval in seconds")
+    parser.add_argument("--interval", type=int, default=3, help="Monitoring interval in seconds")
     parser.add_argument("--training-time", type=int, default=3600, help="Training duration in seconds")
     parser.add_argument("--sensitivity", type=float, default=0.95, help="Detection sensitivity (0.9-0.99)")
     parser.add_argument("--threshold", type=float, default=0.7, help="Alert threshold (0.0-1.0)")
