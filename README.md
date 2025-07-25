@@ -1,5 +1,5 @@
 # CryptoGuardML
-A MachineLanguage based Cryptojacking Detector!
+A Machine Learning based Cryptojacking Detector!
 
 A machine learning-powered tool to detect cryptojacking attempts by monitoring system resource usage and network activity patterns.
 
