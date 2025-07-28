@@ -106,11 +106,11 @@ When potential cryptojacking activity is detected, the tool saves detailed infor
 - Does not detect cryptojacking in web browsers (JavaScript miners)
 - Requires administrative privileges for some functionality
 
-## 🔗 Related Projects
+## Related Projects
 
 Here are other repositories developed by me that focus on detecting and preventing **crypto-jacking** attacks:
 
-### 🔒 [CryptoPatrol](https://github.com/vishnuvrj7/CryptoPatrol)
+### [CryptoPatrol](https://github.com/vishnuvrj7/CryptoPatrol)
 A lightweight **browser-based intrusion detection tool** that monitors real-time web activity to identify unauthorized cryptocurrency mining using a **Chrome extension** and a **Python Flask backend**.
 
 - **Tech Stack**: JavaScript, HTML, Flask, Socket.IO  
@@ -121,7 +121,7 @@ A lightweight **browser-based intrusion detection tool** that monitors real-time
 
 ---
 
-### 🛡️ [CryptojackSentinal](https://github.com/vishnuvrj7/CryptojackSentinal)
+### [CryptojackSentinal](https://github.com/vishnuvrj7/CryptojackSentinal)
 An **advanced system-level sentinel** that detects and prevents stealthy crypto-mining scripts running on the machine, even outside the browser.
 
 - **Tech Stack**: Python, psutil, watchdog, tkinter  
